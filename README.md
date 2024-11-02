@@ -18,7 +18,7 @@ I'm a passionate Angular developer with a love for crafting beautiful, scalable 
 ## 🔗 Connect with Me
 
 - https://www.linkedin.com/in/yourlinkedinprofile)](https://www.linkedin.com/in/mohamed-oussema-njimi
-
+- https://www.medoussemanjimi.fr/
 
 ## 📁 Projects
 
